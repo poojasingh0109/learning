@@ -129,3 +129,7 @@ pushed( git remote add origin)
 push –u origin master)
 
 https://www.youtube.com/watch?v=wrb7Gge9yoE&t=80s
+
+
+TO FIX: error: failed to push some refs to
+https://www.youtube.com/watch?v=wK1A2mNrZ9c
